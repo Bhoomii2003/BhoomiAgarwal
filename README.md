@@ -1,4 +1,4 @@
-# Bhoomii2003
+# Bhoomi Agarwal
 ![logo](https://github.com/Bhoomii2003/BhoomiAgarwal/blob/main/Screenshot%20(26).png)
 <h1 align="center">Hi 👋, I'm Bhoomi Agarwal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
