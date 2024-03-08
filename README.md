@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bhoomii2003](https://github.com/Bhoomii2003)
 
-- 💬 Ask me about **java,react,nodejs,javasript**
+- 💬 Ask me about **java,react,nodejs,javascript**
 
 - 📫 How to reach me **bhoomiagarwal2003@gmail.com**
 
